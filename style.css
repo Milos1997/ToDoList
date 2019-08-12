@@ -3,11 +3,9 @@
 }
 body{
     font-family: "Montserrat", sans-serif;
-    background-image: url(22.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover;
+    height: 100vh;
+    background: linear-gradient(#199aff, #0078d7);
+    overflow: hidden;
 }
 
 .naslov p{
